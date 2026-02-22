@@ -1,1 +1,1 @@
-# cursor-click.svg
+svg-icons
